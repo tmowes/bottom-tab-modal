@@ -1,0 +1,2 @@
+eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint@latest eslint-plugin-import@latest 
+eslint-plugin-jsx-a11y@latest @typescript-eslint/parser@latest
